@@ -1,2 +1,2 @@
 # SnakeGame
-# It is not completed yet.
+It is not completed yet.
