@@ -1,2 +1,2 @@
 # SnakeGame
-It is not completed yet.
+Made for learning pygame library and not completed yet.
